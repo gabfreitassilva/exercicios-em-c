@@ -1,0 +1,10 @@
+Estruturas de Controle
+- Estruturas de repetição
+- Estruturas de iteração
+- Estrutura sequencial
+- Estrutura condicional
+
+- Estrutura de controle condicional 
+if(){
+
+}
