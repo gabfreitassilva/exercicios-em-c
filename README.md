@@ -1,4 +1,4 @@
-# Linguagem C - Completa e Descomplicada
+# Linguagem C - Agora vai
 
 criei esse repositório para me ajudar a mensurar e acompanhar meu aprendizado sobre a linguagem C.
 
